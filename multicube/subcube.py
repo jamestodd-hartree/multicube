@@ -10,7 +10,7 @@ import os
 # imports for the test fiteach redefinition
 import time
 import itertools
-from astropy.extern.six import string_types
+from six import string_types
 
 
 # gotta catch 'em all!
